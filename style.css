@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: ;
+}
+/* .container{
+    margin-bottom: 300px;
+} */
+.homepage{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(216, 250, 250);
+    display: flex;
+}
+.container .text-part{
+    height: 100%;
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.text-part h5{
+    color: red;
+}
+.container .img-part{
+    height: 100%;
+    width: 50%;
+}
